@@ -1,4 +1,12 @@
-# R-2nd-project
+# R 2nd project
+## 부산은 다시 손님을 맞을 준비가 되었는가
+### 상세 내용
+- 코로나 19 이전과 이후의 부산관광산업 현황을 조사(귀무가설과 대립가설을 기준으로)한 후 시각화로 분석하였고,향후 관광산업의 발전을 위해 개선해야 할 방안을 제시했다.<br> 부산과 비슷한 조건과 상황을 가진 타국가들을 조사하였으며 성공적으로 돌파구를 찾은 상하이의 주차어플리케이션을 참고하였다. 
+### 담당 역할
+- 주제 선정
+- 부산과 일본 오사카를 중심으로 자료 조사
+- 관광객 추이 및 인프라 증감 시각화(라인, 파이, 와플)
+- PPT 제작 및 발표
 ![2a6805a510084212f1ab9f2fea8d274267LJ3le2Iy24Ubmj-0](https://user-images.githubusercontent.com/120777172/209597371-15ebaf8a-8693-48a0-87a1-f03d23bea407.png)
 ![2a6805a510084212f1ab9f2fea8d274267LJ3le2Iy24Ubmj-1](https://user-images.githubusercontent.com/120777172/209597374-74adf9a4-3e7c-4bb1-9f23-0516620549e0.png)
 ![2a6805a510084212f1ab9f2fea8d274267LJ3le2Iy24Ubmj-2](https://user-images.githubusercontent.com/120777172/209597375-22ef53b9-62bc-4d06-ab55-a3c758fb8e67.png)
